@@ -25,7 +25,7 @@ SECRET_KEY = 'vaqa!f_0!jm8el7#06%62snd+q1g-3=*+dt&5g+_g-dtn^*7mb'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['yggdralisk.pythonanywhere.com']
 
 
 # Application definition
